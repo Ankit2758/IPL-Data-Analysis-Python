@@ -1,0 +1,345 @@
+match_id,date,team1,team2,venue,city
+1216492,19-09-2020,Mumbai Indians,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi
+1216493,20-09-2020,Delhi Capitals,Kings XI Punjab,Dubai International Cricket Stadium,Unknown City
+1216494,21-10-2020,Kolkata Knight Riders,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi
+1216495,03-11-2020,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stadium,Unknown City
+1216496,22-09-2020,Rajasthan Royals,Chennai Super Kings,Sharjah Cricket Stadium,Unknown City
+1216497,24-10-2020,Kolkata Knight Riders,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi
+1216498,24-10-2020,Kings XI Punjab,Sunrisers Hyderabad,Dubai International Cricket Stadium,Unknown City
+1216499,28-10-2020,Royal Challengers Bangalore,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi
+1216500,09-10-2020,Delhi Capitals,Rajasthan Royals,Sharjah Cricket Stadium,Unknown City
+1216501,07-10-2020,Kolkata Knight Riders,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi
+1216502,31-10-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sharjah Cricket Stadium,Unknown City
+1216503,01-10-2020,Mumbai Indians,Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi
+1216504,30-09-2020,Kolkata Knight Riders,Rajasthan Royals,Dubai International Cricket Stadium,Unknown City
+1216505,02-11-2020,Royal Challengers Bangalore,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi
+1216506,01-11-2020,Kings XI Punjab,Chennai Super Kings,Sheikh Zayed Stadium,Abu Dhabi
+1216507,11-10-2020,Sunrisers Hyderabad,Rajasthan Royals,Dubai International Cricket Stadium,Unknown City
+1216508,23-09-2020,Mumbai Indians,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi
+1216509,17-10-2020,Chennai Super Kings,Delhi Capitals,Sharjah Cricket Stadium,Unknown City
+1216510,24-09-2020,Kings XI Punjab,Royal Challengers Bangalore,Dubai International Cricket Stadium,Unknown City
+1216511,06-10-2020,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi
+1216512,18-10-2020,Kolkata Knight Riders,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi
+1216513,04-10-2020,Kings XI Punjab,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216514,03-10-2020,Rajasthan Royals,Royal Challengers Bangalore,Sheikh Zayed Stadium,Abu Dhabi
+1216515,03-10-2020,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Unknown City
+1216516,02-10-2020,Sunrisers Hyderabad,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216517,18-10-2020,Mumbai Indians,Kings XI Punjab,Dubai International Cricket Stadium,Unknown City
+1216518,22-10-2020,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium,Unknown City
+1216519,05-10-2020,Delhi Capitals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Unknown City
+1216520,26-10-2020,Kolkata Knight Riders,Kings XI Punjab,Sharjah Cricket Stadium,Unknown City
+1216521,23-10-2020,Chennai Super Kings,Mumbai Indians,Sharjah Cricket Stadium,Unknown City
+1216522,17-10-2020,Rajasthan Royals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Unknown City
+1216523,10-10-2020,Kolkata Knight Riders,Kings XI Punjab,Sheikh Zayed Stadium,Abu Dhabi
+1216524,27-10-2020,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium,Unknown City
+1216525,10-10-2020,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216526,16-10-2020,Kolkata Knight Riders,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi
+1216527,27-09-2020,Kings XI Punjab,Rajasthan Royals,Sharjah Cricket Stadium,Unknown City
+1216528,13-10-2020,Chennai Super Kings,Sunrisers Hyderabad,Dubai International Cricket Stadium,Unknown City
+1216529,11-10-2020,Delhi Capitals,Mumbai Indians,Sheikh Zayed Stadium,Abu Dhabi
+1216530,01-11-2020,Kolkata Knight Riders,Rajasthan Royals,Dubai International Cricket Stadium,Unknown City
+1216531,15-10-2020,Royal Challengers Bangalore,Kings XI Punjab,Sharjah Cricket Stadium,Unknown City
+1216532,29-09-2020,Sunrisers Hyderabad,Delhi Capitals,Sheikh Zayed Stadium,Abu Dhabi
+1216533,19-10-2020,Chennai Super Kings,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi
+1216534,21-09-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Dubai International Cricket Stadium,Unknown City
+1216535,31-10-2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,Unknown City
+1216536,29-10-2020,Kolkata Knight Riders,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216537,30-10-2020,Kings XI Punjab,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi
+1216538,04-10-2020,Mumbai Indians,Sunrisers Hyderabad,Sharjah Cricket Stadium,Unknown City
+1216539,25-09-2020,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216540,12-10-2020,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Unknown City
+1216541,25-10-2020,Mumbai Indians,Rajasthan Royals,Sheikh Zayed Stadium,Abu Dhabi
+1216542,08-10-2020,Sunrisers Hyderabad,Kings XI Punjab,Dubai International Cricket Stadium,Unknown City
+1216543,14-10-2020,Delhi Capitals,Rajasthan Royals,Dubai International Cricket Stadium,Unknown City
+1216544,25-10-2020,Royal Challengers Bangalore,Chennai Super Kings,Dubai International Cricket Stadium,Unknown City
+1216545,26-09-2020,Sunrisers Hyderabad,Kolkata Knight Riders,Sheikh Zayed Stadium,Abu Dhabi
+1216546,20-10-2020,Delhi Capitals,Kings XI Punjab,Dubai International Cricket Stadium,Unknown City
+1216547,28-09-2020,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Unknown City
+1237177,05-11-2020,Mumbai Indians,Delhi Capitals,Dubai International Cricket Stadium,Unknown City
+1237178,06-11-2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi
+1237180,08-11-2020,Delhi Capitals,Sunrisers Hyderabad,Sheikh Zayed Stadium,Abu Dhabi
+1237181,10-11-2020,Delhi Capitals,Mumbai Indians,Dubai International Cricket Stadium,Unknown City
+1254058,09-04-2021,Mumbai Indians,Royal Challengers Bangalore,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254059,10-04-2021,Chennai Super Kings,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1254060,11-04-2021,Kolkata Knight Riders,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254061,12-04-2021,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1254062,13-04-2021,Mumbai Indians,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254063,14-04-2021,Royal Challengers Bangalore,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254064,15-04-2021,Delhi Capitals,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1254065,16-04-2021,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai
+1254066,17-04-2021,Mumbai Indians,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254067,18-04-2021,Royal Challengers Bangalore,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254068,18-04-2021,Punjab Kings,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1254069,19-04-2021,Chennai Super Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1254070,20-04-2021,Mumbai Indians,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254071,21-04-2021,Punjab Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254072,21-04-2021,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai
+1254073,22-04-2021,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai
+1254074,23-04-2021,Mumbai Indians,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254075,24-04-2021,Kolkata Knight Riders,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1254076,25-04-2021,Chennai Super Kings,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai
+1254077,25-04-2021,Delhi Capitals,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1254078,26-04-2021,Punjab Kings,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1254079,27-04-2021,Royal Challengers Bangalore,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1254080,28-04-2021,Sunrisers Hyderabad,Chennai Super Kings,"Arun Jaitley Stadium, Delhi",Delhi
+1254081,29-04-2021,Rajasthan Royals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi
+1254082,29-04-2021,Kolkata Knight Riders,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1254083,30-04-2021,Punjab Kings,Royal Challengers Bangalore,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1254084,01-05-2021,Chennai Super Kings,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi
+1254085,02-05-2021,Rajasthan Royals,Sunrisers Hyderabad,"Arun Jaitley Stadium, Delhi",Delhi
+1254086,02-05-2021,Punjab Kings,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1254087,20-09-2021,Royal Challengers Bangalore,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254088,08-10-2021,Mumbai Indians,Sunrisers Hyderabad,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254089,02-10-2021,Chennai Super Kings,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254090,03-10-2021,Royal Challengers Bangalore,Punjab Kings,Sharjah Cricket Stadium,Sharjah
+1254091,30-09-2021,Sunrisers Hyderabad,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah
+1254092,28-09-2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah
+1254093,05-10-2021,Rajasthan Royals,Mumbai Indians,Sharjah Cricket Stadium,Sharjah
+1254094,07-10-2021,Chennai Super Kings,Punjab Kings,Dubai International Cricket Stadium,Dubai
+1254095,06-10-2021,Sunrisers Hyderabad,Royal Challengers Bangalore,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254096,23-09-2021,Mumbai Indians,Kolkata Knight Riders,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254097,25-09-2021,Delhi Capitals,Rajasthan Royals,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254098,26-09-2021,Kolkata Knight Riders,Chennai Super Kings,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254099,28-09-2021,Punjab Kings,Mumbai Indians,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi
+1254100,27-09-2021,Rajasthan Royals,Sunrisers Hyderabad,Dubai International Cricket Stadium,Dubai
+1254101,08-10-2021,Delhi Capitals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai
+1254102,01-10-2021,Kolkata Knight Riders,Punjab Kings,Dubai International Cricket Stadium,Dubai
+1254103,29-09-2021,Rajasthan Royals,Royal Challengers Bangalore,Dubai International Cricket Stadium,Dubai
+1254104,19-09-2021,Chennai Super Kings,Mumbai Indians,Dubai International Cricket Stadium,Dubai
+1254105,22-09-2021,Sunrisers Hyderabad,Delhi Capitals,Dubai International Cricket Stadium,Dubai
+1254106,07-10-2021,Kolkata Knight Riders,Rajasthan Royals,Sharjah Cricket Stadium,Sharjah
+1254107,25-09-2021,Punjab Kings,Sunrisers Hyderabad,Sharjah Cricket Stadium,Sharjah
+1254108,26-09-2021,Royal Challengers Bangalore,Mumbai Indians,Dubai International Cricket Stadium,Dubai
+1254109,03-10-2021,Sunrisers Hyderabad,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai
+1254110,04-10-2021,Chennai Super Kings,Delhi Capitals,Dubai International Cricket Stadium,Dubai
+1254111,21-09-2021,Rajasthan Royals,Punjab Kings,Dubai International Cricket Stadium,Dubai
+1254112,02-10-2021,Mumbai Indians,Delhi Capitals,Sharjah Cricket Stadium,Sharjah
+1254113,24-09-2021,Royal Challengers Bangalore,Chennai Super Kings,Sharjah Cricket Stadium,Sharjah
+1254114,10-10-2021,Delhi Capitals,Chennai Super Kings,Dubai International Cricket Stadium,Dubai
+1254115,11-10-2021,Royal Challengers Bangalore,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah
+1254116,13-10-2021,Delhi Capitals,Kolkata Knight Riders,Sharjah Cricket Stadium,Sharjah
+1254117,15-10-2021,Chennai Super Kings,Kolkata Knight Riders,Dubai International Cricket Stadium,Dubai
+1304047,26-03-2022,Chennai Super Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai
+1304048,27-03-2022,Mumbai Indians,Delhi Capitals,"Brabourne Stadium, Mumbai",Mumbai
+1304049,27-03-2022,Royal Challengers Bangalore,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304050,28-03-2022,Lucknow Super Giants,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai
+1304051,29-03-2022,Rajasthan Royals,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304052,30-03-2022,Kolkata Knight Riders,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304053,31-03-2022,Chennai Super Kings,Lucknow Super Giants,"Brabourne Stadium, Mumbai",Mumbai
+1304054,01-04-2022,Punjab Kings,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai
+1304055,02-04-2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304056,02-04-2022,Gujarat Titans,Delhi Capitals,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304057,03-04-2022,Punjab Kings,Chennai Super Kings,"Brabourne Stadium, Mumbai",Mumbai
+1304058,04-04-2022,Lucknow Super Giants,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304059,05-04-2022,Rajasthan Royals,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai
+1304060,06-04-2022,Mumbai Indians,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304061,07-04-2022,Delhi Capitals,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304062,08-04-2022,Punjab Kings,Gujarat Titans,"Brabourne Stadium, Mumbai",Mumbai
+1304063,09-04-2022,Chennai Super Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304064,09-04-2022,Mumbai Indians,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304065,10-04-2022,Delhi Capitals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Mumbai
+1304066,10-04-2022,Rajasthan Royals,Lucknow Super Giants,"Wankhede Stadium, Mumbai",Mumbai
+1304067,11-04-2022,Gujarat Titans,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304068,12-04-2022,Chennai Super Kings,Royal Challengers Bangalore,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304069,13-04-2022,Punjab Kings,Mumbai Indians,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304070,14-04-2022,Gujarat Titans,Rajasthan Royals,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304071,15-04-2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Mumbai
+1304072,16-04-2022,Lucknow Super Giants,Mumbai Indians,"Brabourne Stadium, Mumbai",Mumbai
+1304073,16-04-2022,Royal Challengers Bangalore,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1304074,17-04-2022,Punjab Kings,Sunrisers Hyderabad,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304075,17-04-2022,Chennai Super Kings,Gujarat Titans,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304076,18-04-2022,Rajasthan Royals,Kolkata Knight Riders,"Brabourne Stadium, Mumbai",Mumbai
+1304077,19-04-2022,Royal Challengers Bangalore,Lucknow Super Giants,"Dr DY Patil Sports Academy, Mumbai",Mumbai
+1304078,20-04-2022,Punjab Kings,Delhi Capitals,"Brabourne Stadium, Mumbai",Mumbai
+1304079,21-04-2022,Mumbai Indians,Chennai Super Kings,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304080,22-04-2022,Rajasthan Royals,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1304081,23-04-2022,Gujarat Titans,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304082,23-04-2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Mumbai
+1304083,24-04-2022,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1304084,25-04-2022,Punjab Kings,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai
+1304085,26-04-2022,Rajasthan Royals,Royal Challengers Bangalore,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304086,27-04-2022,Sunrisers Hyderabad,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai
+1304087,28-04-2022,Kolkata Knight Riders,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1304088,29-04-2022,Lucknow Super Giants,Punjab Kings,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304089,30-04-2022,Royal Challengers Bangalore,Gujarat Titans,"Brabourne Stadium, Mumbai",Mumbai
+1304090,30-04-2022,Rajasthan Royals,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304091,01-05-2022,Lucknow Super Giants,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1304092,01-05-2022,Chennai Super Kings,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304093,02-05-2022,Rajasthan Royals,Kolkata Knight Riders,"Wankhede Stadium, Mumbai",Mumbai
+1304094,03-05-2022,Gujarat Titans,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304095,04-05-2022,Royal Challengers Bangalore,Chennai Super Kings,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304096,05-05-2022,Delhi Capitals,Sunrisers Hyderabad,"Brabourne Stadium, Mumbai",Mumbai
+1304097,06-05-2022,Mumbai Indians,Gujarat Titans,"Brabourne Stadium, Mumbai",Mumbai
+1304098,07-05-2022,Punjab Kings,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1304099,07-05-2022,Lucknow Super Giants,Kolkata Knight Riders,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304100,08-05-2022,Royal Challengers Bangalore,Sunrisers Hyderabad,"Wankhede Stadium, Mumbai",Mumbai
+1304101,08-05-2022,Chennai Super Kings,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304102,09-05-2022,Kolkata Knight Riders,Mumbai Indians,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304103,10-05-2022,Gujarat Titans,Lucknow Super Giants,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304104,11-05-2022,Rajasthan Royals,Delhi Capitals,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304105,12-05-2022,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1304106,13-05-2022,Punjab Kings,Royal Challengers Bangalore,"Brabourne Stadium, Mumbai",Mumbai
+1304107,14-05-2022,Kolkata Knight Riders,Sunrisers Hyderabad,"Maharashtra Cricket Association Stadium, Pune",Pune
+1304108,15-05-2022,Chennai Super Kings,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai
+1304109,15-05-2022,Rajasthan Royals,Lucknow Super Giants,"Brabourne Stadium, Mumbai",Mumbai
+1304110,16-05-2022,Delhi Capitals,Punjab Kings,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304111,17-05-2022,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1304112,18-05-2022,Lucknow Super Giants,Kolkata Knight Riders,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai
+1304113,19-05-2022,Gujarat Titans,Royal Challengers Bangalore,"Wankhede Stadium, Mumbai",Mumbai
+1304114,20-05-2022,Chennai Super Kings,Rajasthan Royals,"Brabourne Stadium, Mumbai",Mumbai
+1304115,21-05-2022,Delhi Capitals,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1304116,22-05-2022,Sunrisers Hyderabad,Punjab Kings,"Wankhede Stadium, Mumbai",Mumbai
+1312197,24-05-2022,Rajasthan Royals,Gujarat Titans,"Eden Gardens, Kolkata",Kolkata
+1312198,25-05-2022,Royal Challengers Bangalore,Lucknow Super Giants,"Eden Gardens, Kolkata",Kolkata
+1312199,27-05-2022,Royal Challengers Bangalore,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1312200,29-05-2022,Rajasthan Royals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359475,31-03-2023,Chennai Super Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359476,01-04-2023,Punjab Kings,Kolkata Knight Riders,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh
+1359477,01-04-2023,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359478,02-04-2023,Rajasthan Royals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359479,02-04-2023,Mumbai Indians,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359480,03-04-2023,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359481,04-04-2023,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",Delhi
+1359482,05-04-2023,Punjab Kings,Rajasthan Royals,"Barsapara Cricket Stadium, Guwahati",Guwahati
+1359483,06-04-2023,Kolkata Knight Riders,Royal Challengers Bangalore,"Eden Gardens, Kolkata",Kolkata
+1359484,07-04-2023,Sunrisers Hyderabad,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359485,08-04-2023,Rajasthan Royals,Delhi Capitals,"Barsapara Cricket Stadium, Guwahati",Guwahati
+1359486,08-04-2023,Mumbai Indians,Chennai Super Kings,"Wankhede Stadium, Mumbai",Mumbai
+1359487,09-04-2023,Gujarat Titans,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359488,09-04-2023,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359489,10-04-2023,Royal Challengers Bangalore,Lucknow Super Giants,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359490,11-04-2023,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi
+1359491,12-04-2023,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359492,13-04-2023,Punjab Kings,Gujarat Titans,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh
+1359493,14-04-2023,Sunrisers Hyderabad,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1359494,15-04-2023,Royal Challengers Bangalore,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359495,15-04-2023,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359496,16-04-2023,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1359497,16-04-2023,Gujarat Titans,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359498,17-04-2023,Chennai Super Kings,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359499,18-04-2023,Mumbai Indians,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359500,19-04-2023,Lucknow Super Giants,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1359501,20-04-2023,Royal Challengers Bangalore,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh
+1359502,20-04-2023,Kolkata Knight Riders,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1359503,21-04-2023,Sunrisers Hyderabad,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359504,22-04-2023,Gujarat Titans,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359505,22-04-2023,Punjab Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1359506,23-04-2023,Royal Challengers Bangalore,Rajasthan Royals,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359507,23-04-2023,Chennai Super Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1359508,24-04-2023,Delhi Capitals,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359509,25-04-2023,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359510,26-04-2023,Kolkata Knight Riders,Royal Challengers Bangalore,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1359511,27-04-2023,Rajasthan Royals,Chennai Super Kings,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1359512,28-04-2023,Lucknow Super Giants,Punjab Kings,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh
+1359513,29-04-2023,Kolkata Knight Riders,Gujarat Titans,"Eden Gardens, Kolkata",Kolkata
+1359514,29-04-2023,Sunrisers Hyderabad,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1359515,30-04-2023,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359516,30-04-2023,Rajasthan Royals,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1359517,01-05-2023,Royal Challengers Bangalore,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359518,02-05-2023,Delhi Capitals,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359519,03-05-2023,Lucknow Super Giants,,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359520,03-05-2023,Punjab Kings,Mumbai Indians,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh
+1359521,04-05-2023,Kolkata Knight Riders,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359522,05-05-2023,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1359523,06-05-2023,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359524,06-05-2023,Royal Challengers Bangalore,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1359525,07-05-2023,Gujarat Titans,Lucknow Super Giants,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359526,07-05-2023,Rajasthan Royals,Sunrisers Hyderabad,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1359527,08-05-2023,Punjab Kings,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1359528,09-05-2023,Royal Challengers Bangalore,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1359529,10-05-2023,Chennai Super Kings,Delhi Capitals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359530,11-05-2023,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata
+1359531,12-05-2023,Mumbai Indians,Gujarat Titans,"Wankhede Stadium, Mumbai",Mumbai
+1359532,13-05-2023,Sunrisers Hyderabad,Lucknow Super Giants,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359533,13-05-2023,Punjab Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1359534,14-05-2023,Royal Challengers Bangalore,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1359535,14-05-2023,Chennai Super Kings,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1359536,15-05-2023,Gujarat Titans,Sunrisers Hyderabad,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1359537,16-05-2023,Lucknow Super Giants,Mumbai Indians,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1359538,17-05-2023,Delhi Capitals,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala
+1359539,18-05-2023,Sunrisers Hyderabad,Royal Challengers Bangalore,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1359540,19-05-2023,Punjab Kings,Rajasthan Royals,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala
+1359541,20-05-2023,Chennai Super Kings,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1359542,20-05-2023,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1359543,21-05-2023,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1359544,21-05-2023,Royal Challengers Bangalore,Gujarat Titans,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1370350,23-05-2023,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1370351,24-05-2023,Mumbai Indians,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1370352,26-05-2023,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1370353,29-05-2023,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1422119,22-03-2024,Royal Challengers Bengaluru,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1422120,23-03-2024,Delhi Capitals,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali
+1422121,23-03-2024,Kolkata Knight Riders,Sunrisers Hyderabad,"Eden Gardens, Kolkata",Kolkata
+1422122,24-03-2024,Rajasthan Royals,Lucknow Super Giants,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1422123,24-03-2024,Gujarat Titans,Mumbai Indians,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1422124,25-03-2024,Punjab Kings,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1422125,26-03-2024,Chennai Super Kings,Gujarat Titans,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1422126,27-03-2024,Sunrisers Hyderabad,Mumbai Indians,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1422127,28-03-2024,Rajasthan Royals,Delhi Capitals,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1422128,29-03-2024,Royal Challengers Bengaluru,Kolkata Knight Riders,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1422129,30-03-2024,Lucknow Super Giants,Punjab Kings,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1422130,31-03-2024,Sunrisers Hyderabad,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1422131,31-03-2024,Delhi Capitals,Chennai Super Kings,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam
+1422132,01-04-2024,Mumbai Indians,Rajasthan Royals,"Wankhede Stadium, Mumbai",Mumbai
+1422133,02-04-2024,Lucknow Super Giants,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1422134,03-04-2024,Kolkata Knight Riders,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam
+1422135,04-04-2024,Gujarat Titans,Punjab Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1422136,05-04-2024,Chennai Super Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1422137,06-04-2024,Royal Challengers Bengaluru,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1422138,07-04-2024,Mumbai Indians,Delhi Capitals,"Wankhede Stadium, Mumbai",Mumbai
+1422139,07-04-2024,Lucknow Super Giants,Gujarat Titans,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426260,08-04-2024,Kolkata Knight Riders,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426261,09-04-2024,Sunrisers Hyderabad,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali
+1426262,10-04-2024,Rajasthan Royals,Gujarat Titans,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1426263,11-04-2024,Royal Challengers Bengaluru,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1426264,12-04-2024,Lucknow Super Giants,Delhi Capitals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426265,13-04-2024,Punjab Kings,Rajasthan Royals,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali
+1426266,14-04-2024,Lucknow Super Giants,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1426267,14-04-2024,Chennai Super Kings,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1426268,15-04-2024,Sunrisers Hyderabad,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1426269,16-04-2024,Kolkata Knight Riders,Rajasthan Royals,"Eden Gardens, Kolkata",Kolkata
+1426270,17-04-2024,Gujarat Titans,Delhi Capitals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1426271,18-04-2024,Mumbai Indians,Punjab Kings,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali
+1426272,19-04-2024,Chennai Super Kings,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426273,20-04-2024,Sunrisers Hyderabad,Delhi Capitals,"Arun Jaitley Stadium, Delhi",Delhi
+1426274,21-04-2024,Kolkata Knight Riders,Royal Challengers Bengaluru,"Eden Gardens, Kolkata",Kolkata
+1426275,21-04-2024,Punjab Kings,Gujarat Titans,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",Mohali
+1426276,22-04-2024,Mumbai Indians,Rajasthan Royals,"Sawai Mansingh Stadium, Jaipur",Jaipur
+1426277,23-04-2024,Chennai Super Kings,Lucknow Super Giants,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426278,24-04-2024,Delhi Capitals,Gujarat Titans,"Arun Jaitley Stadium, Delhi",Delhi
+1426279,25-04-2024,Royal Challengers Bengaluru,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1426280,26-04-2024,Kolkata Knight Riders,Punjab Kings,"Eden Gardens, Kolkata",Kolkata
+1426281,27-04-2024,Delhi Capitals,Mumbai Indians,"Arun Jaitley Stadium, Delhi",Delhi
+1426282,27-04-2024,Lucknow Super Giants,Rajasthan Royals,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426283,28-04-2024,Gujarat Titans,Royal Challengers Bengaluru,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1426284,28-04-2024,Chennai Super Kings,Sunrisers Hyderabad,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426285,29-04-2024,Delhi Capitals,Kolkata Knight Riders,"Eden Gardens, Kolkata",Kolkata
+1426286,30-04-2024,Mumbai Indians,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426287,01-05-2024,Chennai Super Kings,Punjab Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426288,02-05-2024,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1426289,03-05-2024,Kolkata Knight Riders,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1426290,04-05-2024,Gujarat Titans,Royal Challengers Bengaluru,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1426291,05-05-2024,Chennai Super Kings,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala
+1426292,05-05-2024,Kolkata Knight Riders,Lucknow Super Giants,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow
+1426293,06-05-2024,Sunrisers Hyderabad,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1426294,07-05-2024,Delhi Capitals,Rajasthan Royals,"Arun Jaitley Stadium, Delhi",Delhi
+1426295,08-05-2024,Lucknow Super Giants,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1426296,09-05-2024,Royal Challengers Bengaluru,Punjab Kings,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala
+1426297,10-05-2024,Gujarat Titans,Chennai Super Kings,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1426298,11-05-2024,Kolkata Knight Riders,Mumbai Indians,"Eden Gardens, Kolkata",Kolkata
+1426299,12-05-2024,Rajasthan Royals,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426300,12-05-2024,Royal Challengers Bengaluru,Delhi Capitals,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1426302,14-05-2024,Delhi Capitals,Lucknow Super Giants,"Arun Jaitley Stadium, Delhi",Delhi
+1426303,15-05-2024,Rajasthan Royals,Punjab Kings,"Barsapara Cricket Stadium, Guwahati",Guwahati
+1426305,17-05-2024,Lucknow Super Giants,Mumbai Indians,"Wankhede Stadium, Mumbai",Mumbai
+1426306,18-05-2024,Royal Challengers Bengaluru,Chennai Super Kings,"M Chinnaswamy Stadium, Bengaluru",Bengaluru
+1426307,19-05-2024,Punjab Kings,Sunrisers Hyderabad,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1426309,21-05-2024,Sunrisers Hyderabad,Kolkata Knight Riders,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1426310,22-05-2024,Royal Challengers Bengaluru,Rajasthan Royals,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
+1426311,24-05-2024,Sunrisers Hyderabad,Rajasthan Royals,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1426312,26-05-2024,Sunrisers Hyderabad,Kolkata Knight Riders,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1473438,22-03-2025,Kolkata Knight Riders,Royal Challengers Bengaluru,"Eden Gardens, Kolkata",Kolkata
+1473439,23-03-2025,Sunrisers Hyderabad,Rajasthan Royals,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad
+1473440,23-03-2025,Mumbai Indians,Chennai Super Kings,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai
+1473441,24-03-2025,Lucknow Super Giants,Delhi Capitals,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam
+1473442,25-03-2025,Punjab Kings,Gujarat Titans,"Narendra Modi Stadium, Ahmedabad",Ahmedabad
