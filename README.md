@@ -34,5 +34,3 @@ This project analyzes IPL (Indian Premier League) data using Python. It includes
 ## 📌 Conclusion
 
 This project demonstrates how data analysis can be applied in sports analytics using Python.
-
-![Graph}(Screenshot 2026-04-20 210758.png)
